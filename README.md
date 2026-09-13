@@ -75,8 +75,7 @@ their performance.
 ```
 .
 ├── ford-car-price-prediction.ipynb   # Main analysis & modeling notebook
-├── data/
-│   └── ford.csv                      # Dataset (not included — see setup)
+├── ford.csv                      # Dataset
 ├── requirements.txt                  # Python dependencies
 └── README.md
 ```
