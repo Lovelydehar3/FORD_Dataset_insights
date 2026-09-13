@@ -49,7 +49,7 @@ following columns:
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/ford-car-price-prediction.git
+git clone https://github.com/Lovelydehar3/ford-car-price-prediction.git
 cd ford-car-price-prediction
 pip install -r requirements.txt
 ```
